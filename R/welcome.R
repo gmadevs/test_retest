@@ -1,3 +1,3 @@
 .onAttach <- function(libname, pkgname) {
-  packageStartupMessage("test")
+  packageStartupMessage("Test Retest v 0.1")
 }
