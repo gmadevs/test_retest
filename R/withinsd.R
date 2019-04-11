@@ -15,7 +15,7 @@
 #' first <- rnorm(20, mean = 10, sd = 1)
 #' second <- rnorm(20, mean = 10, sd = 1)
 #'
-#' withinsd(first, second)
+#' withinsdlog(first, second)
 #'
 #'
 #' @references 1. (2015) Quantitative Imaging Biomarkers: A Review of Statistical Methods for Technical Performance Assessment. Stat Methods Med Res 24:27–67. https://doi.org/10.1177/0962280214537344
