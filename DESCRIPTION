@@ -1,0 +1,10 @@
+Package: testretest
+Version: 0.1
+Date: 2010-04-11
+Title: Test retest in R
+Description: A simple package for test-retest calculations in radiology studies.
+Author: Giorgio Maria Agazzi <giorgiomaria.agazzi@gmail.com>
+Maintainer: Giorgio Maria Agazzi <giorgiomaria.agazzi@gmail.com>
+RoxygenNote: 6.1.1
+License: GPL-3
+Encoding: UTF-8
