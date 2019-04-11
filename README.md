@@ -7,4 +7,4 @@ Currently calculations:
 
 Please comment or push requests for code changes
 
-Contact me at my email: [mailto](mailto:giorgiomaria.agazzi@gmail.com).
+Contact me at my email: [Giorgio Maria Agazzi, MD](mailto:giorgiomaria.agazzi@gmail.com).
