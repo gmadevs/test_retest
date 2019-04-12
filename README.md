@@ -1,3 +1,5 @@
+#Package current on beta so don't use it for any calculations!
+
 # Test Retest: an R package for simple repeatability statistics
 
 v0.1. Tested on:
